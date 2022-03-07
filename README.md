@@ -1,11 +1,11 @@
-Hi there 👋 I'm Daniel | Olá, eu sou o Daniel
+Hi there 👋 I'm Felipe | Olá, eu sou o Felipe
 
 - 🔭 I’m currently working on Mercadata Selling Institute
-- 🌱 I’m currently learning socket IO
+- 🌱 I’m currently in the first semester of my college (Analysis and Systems Development)
 - 👯 I’m looking to collaborate on React Js
-- 🤔 I’m looking for help with axios
-- 💬 Ask me about CSS
-- 📫 How to reach me: fbarreto.dev@gmail.com |  LinkedIn
+- 🤔 I’m looking for help with typescript
+- 💬 Ask me about React, Js, HTML or CSS
+- 📫 How to reach me: fbarreto.dev@gmail.com |  https://www.linkedin.com/in/felipe-barreto-3751b1219
 - ⚡ Fun fact: I'm looking for networking and stuff
 
 <div align="center">
