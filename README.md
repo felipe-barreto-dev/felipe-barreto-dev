@@ -1,9 +1,9 @@
 Hi there 👋 I'm Felipe | Olá, eu sou o Felipe
 
 - 🔭 I’m currently working on Claudiah Inovação em Gestão
-- 🌱 I’m currently in the first semester of my college (Analysis and Systems Development)
-- 👯 I’m looking to collaborate on React Js
-- 🤔 I’m looking for help with typescript
+- 🌱 I’m currently in the second semester of my college (Analysis and Systems Development)
+- 👯 I’m looking to collaborate on React.Js
+- 🤔 I’m looking for help with .Net
 - 💬 Ask me about React, Js, HTML or CSS
 - 📫 How to reach me: fbarreto.dev@gmail.com |  https://www.linkedin.com/in/felipe-barreto-3751b1219
 - ⚡ Fun fact: I'm looking for networking and stuff
