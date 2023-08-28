@@ -1,7 +1,7 @@
 Hi there 👋 I'm Felipe | Olá, eu sou o Felipe
 
 - 🔭 I’m currently working on Claudiah Inovação em Gestão
-- 🌱 I’m currently in the second semester of my college (Analysis and Systems Development)
+- 🌱 I’m currently in the forth semester of my college (Analysis and Systems Development)
 - 👯 I’m looking to collaborate on React.Js
 - 🤔 I’m looking for help with .Net
 - 💬 Ask me about React, Js, HTML or CSS
