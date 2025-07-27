@@ -66,7 +66,7 @@ const felipe = {
 
 ```sh
 📬 fbarreto.dev@gmail.com
-🌐 www.linkedin.com/in/felipe-barreto-3751b1219
+🌐 www.linkedin.com/in/fbarreto-dev
 ```
 
 ---
@@ -145,7 +145,7 @@ const felipe = {
 
 ```sh
 📬 fbarreto.dev@gmail.com
-🌐 www.linkedin.com/in/felipe-barreto-3751b1219
+🌐 www.linkedin.com/in/fbarreto-dev
 ```
 
 ---
